@@ -45,5 +45,6 @@
     "esModuleInterop": true,
     "verbatimModuleSyntax": false,
     "types": [ "node" ]
-  }
+  },
+  "exclude": ["src/frontend"]
 }
